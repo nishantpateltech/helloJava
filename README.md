@@ -3,7 +3,7 @@
 ## Description
 My first program written in Java.
 
-## Usage
+## Installation
 To use this program, make sure to have the newest JDK installed.
 
 [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
@@ -25,3 +25,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+---
+
+![Profile](https://avatars0.githubusercontent.com/u/38241145?s=460&u=be4692ae7bcf3cb7caffd194fc729d829bddc9a2&v=4)
+
+### 9 Sep 2020
+
+**Hi!** I study computer science at "Zealand Erhvervsakademi" in Denmark.
