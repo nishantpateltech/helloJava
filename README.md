@@ -5,6 +5,7 @@ My first program written in Java.
 
 Touched by mister touch me not ;D
 and thos it shall be
+For ever and ever
 
 ## Installation
 To use this program, make sure to have the newest JDK installed.
