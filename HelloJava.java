@@ -1,3 +1,7 @@
+//For non-ide user 
+//Add below given line
+//import java.util.*; 
+
 public class HelloJava {
     public static void main(String[] args) {
         // System.out.println() is used for printing the text on console screen
