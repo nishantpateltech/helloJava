@@ -1,6 +1,6 @@
 //For non-ide user 
 //Add below given line
-//import java.util.*; 
+import java.util.*; 
 
 public class HelloJava {
     public static void main(String[] args) {
